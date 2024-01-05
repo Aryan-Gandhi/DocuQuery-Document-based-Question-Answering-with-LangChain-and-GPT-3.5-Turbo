@@ -1,5 +1,3 @@
-# Streamlit-QA Application with LangChain and GPT-3.5 Turbo
-
 ## Overview
 
 This repository contains a Streamlit-based Question-Answering (QA) application that leverages LangChain and OpenAI's GPT-3.5 Turbo model for efficient natural language processing of PDF, DOCX, and TXT files. The application includes various features such as document chunking, embedding creation using OpenAIEmbeddings, and persistent chat history, showcasing proficiency in document processing, vector storage, and user interface design.
